@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/112013621222109636/d281130fc5d944519f4e6c96487b958d/artifacts
+end_time: 1732577302644
+entry_point_name: ''
+experiment_id: '112013621222109636'
+lifecycle_stage: active
+run_id: d281130fc5d944519f4e6c96487b958d
+run_name: youthful-trout-318
+run_uuid: d281130fc5d944519f4e6c96487b958d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732575327018
+status: 3
+tags: []
+user_id: marqsleal

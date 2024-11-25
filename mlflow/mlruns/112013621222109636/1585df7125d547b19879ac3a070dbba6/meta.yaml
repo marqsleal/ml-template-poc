@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/112013621222109636/1585df7125d547b19879ac3a070dbba6/artifacts
+end_time: 1732577811809
+entry_point_name: ''
+experiment_id: '112013621222109636'
+lifecycle_stage: active
+run_id: 1585df7125d547b19879ac3a070dbba6
+run_name: upbeat-cat-775
+run_uuid: 1585df7125d547b19879ac3a070dbba6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732577648764
+status: 3
+tags: []
+user_id: marqsleal

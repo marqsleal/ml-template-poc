@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/112013621222109636/f2549d97010944bb87d65b604dea70b4/artifacts
+end_time: 1732577811809
+entry_point_name: ''
+experiment_id: '112013621222109636'
+lifecycle_stage: active
+run_id: f2549d97010944bb87d65b604dea70b4
+run_name: nimble-stag-330
+run_uuid: f2549d97010944bb87d65b604dea70b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732577648764
+status: 3
+tags: []
+user_id: marqsleal

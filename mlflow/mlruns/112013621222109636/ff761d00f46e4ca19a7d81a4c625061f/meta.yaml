@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/112013621222109636/ff761d00f46e4ca19a7d81a4c625061f/artifacts
+end_time: 1732577811809
+entry_point_name: ''
+experiment_id: '112013621222109636'
+lifecycle_stage: active
+run_id: ff761d00f46e4ca19a7d81a4c625061f
+run_name: wise-perch-284
+run_uuid: ff761d00f46e4ca19a7d81a4c625061f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732577648764
+status: 3
+tags: []
+user_id: marqsleal

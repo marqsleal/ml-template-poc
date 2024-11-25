@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/112013621222109636/d026473c6ec64fffb686e71a57fc3652/artifacts
+end_time: 1732577874783
+entry_point_name: ''
+experiment_id: '112013621222109636'
+lifecycle_stage: active
+run_id: d026473c6ec64fffb686e71a57fc3652
+run_name: Supervised_RandomSearchCV_AdaBoostClassifier
+run_uuid: d026473c6ec64fffb686e71a57fc3652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732577648764
+status: 4
+tags: []
+user_id: marqsleal

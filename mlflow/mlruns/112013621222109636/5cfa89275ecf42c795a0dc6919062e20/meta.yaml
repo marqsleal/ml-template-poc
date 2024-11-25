@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/112013621222109636/5cfa89275ecf42c795a0dc6919062e20/artifacts
+end_time: 1732577302644
+entry_point_name: ''
+experiment_id: '112013621222109636'
+lifecycle_stage: active
+run_id: 5cfa89275ecf42c795a0dc6919062e20
+run_name: merciful-eel-52
+run_uuid: 5cfa89275ecf42c795a0dc6919062e20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732575327018
+status: 3
+tags: []
+user_id: marqsleal

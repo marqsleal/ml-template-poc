@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/112013621222109636/7ea67c1d985d40fb968f4a5b4ca83218/artifacts
+end_time: 1732577647600
+entry_point_name: ''
+experiment_id: '112013621222109636'
+lifecycle_stage: active
+run_id: 7ea67c1d985d40fb968f4a5b4ca83218
+run_name: polite-dove-618
+run_uuid: 7ea67c1d985d40fb968f4a5b4ca83218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732577341987
+status: 3
+tags: []
+user_id: marqsleal

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/112013621222109636/4cdc2b4e3bbf46a2bcba44f4b32d3e65/artifacts
+end_time: 1732577341677
+entry_point_name: ''
+experiment_id: '112013621222109636'
+lifecycle_stage: active
+run_id: 4cdc2b4e3bbf46a2bcba44f4b32d3e65
+run_name: Supervised_RandomSearchCV_XGBClassifier
+run_uuid: 4cdc2b4e3bbf46a2bcba44f4b32d3e65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732577304212
+status: 3
+tags: []
+user_id: marqsleal
