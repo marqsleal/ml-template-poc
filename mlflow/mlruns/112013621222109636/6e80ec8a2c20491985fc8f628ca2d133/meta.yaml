@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/112013621222109636/6e80ec8a2c20491985fc8f628ca2d133/artifacts
+end_time: 1732578534754
+entry_point_name: ''
+experiment_id: '112013621222109636'
+lifecycle_stage: active
+run_id: 6e80ec8a2c20491985fc8f628ca2d133
+run_name: caring-quail-184
+run_uuid: 6e80ec8a2c20491985fc8f628ca2d133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732578411042
+status: 3
+tags: []
+user_id: marqsleal

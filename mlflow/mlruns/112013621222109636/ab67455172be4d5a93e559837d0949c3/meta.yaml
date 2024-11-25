@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/112013621222109636/ab67455172be4d5a93e559837d0949c3/artifacts
+end_time: 1732578534754
+entry_point_name: ''
+experiment_id: '112013621222109636'
+lifecycle_stage: active
+run_id: ab67455172be4d5a93e559837d0949c3
+run_name: welcoming-roo-146
+run_uuid: ab67455172be4d5a93e559837d0949c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732578411042
+status: 3
+tags: []
+user_id: marqsleal

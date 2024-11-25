@@ -43,25 +43,9 @@ PARAM_GRID_XGB = {
     'subsample': [0.6, 0.8, 1.0]
 }
 
-PARAM_GRID_ADABOOST_DTC = {
+PARAM_GRID_ADABOOST = {
     'n_estimators': [50, 100, 200],
     'learning_rate': [0.01, 0.1, 1, 10],
-    'algorithm': ['SAMME'],
-    'estimator': [DecisionTreeClassifier(max_depth=d) for d in [1, 2, 3]]
-}
-
-PARAM_GRID_ADABOOST_KNN = {
-    'n_estimators': [50, 100, 200],
-    'learning_rate': [0.01, 0.1, 1, 10],
-    'algorithm': ['SAMME'],
-    'estimator': [KNeighborsClassifier(n_neighbors=n) for n in [3, 5, 7]]    
-}
-
-PARAM_GRID_ADABOOST_GNB = {
-    'n_estimators': [50, 100, 200],
-    'learning_rate': [0.01, 0.1, 1, 10],
-    'algorithm': ['SAMME'],
-    'estimator': [GaussianNB()]
 }
 
 PARAM_GRID_GRADIENTBOOST = {
