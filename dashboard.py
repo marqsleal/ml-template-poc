@@ -6,7 +6,7 @@ import pandas as pd
 import os
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score, confusion_matrix, ConfusionMatrixDisplay, classification_report
 
-import abstraction.model_functions as ModelFunctions
+import functions.model_functions as ModelFunctions
 
 DATASET = "datasets/churn_filtered.csv"
 MODEL = "mlflow/mlartifacts/112013621222109636/6d98d684b5d945f993b49effe31a0566/artifacts/model"
