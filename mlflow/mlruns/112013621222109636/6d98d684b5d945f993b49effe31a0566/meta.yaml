@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/112013621222109636/6d98d684b5d945f993b49effe31a0566/artifacts
+end_time: 1732579829430
+entry_point_name: ''
+experiment_id: '112013621222109636'
+lifecycle_stage: active
+run_id: 6d98d684b5d945f993b49effe31a0566
+run_name: stylish-shrike-159
+run_uuid: 6d98d684b5d945f993b49effe31a0566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732579805447
+status: 3
+tags: []
+user_id: marqsleal

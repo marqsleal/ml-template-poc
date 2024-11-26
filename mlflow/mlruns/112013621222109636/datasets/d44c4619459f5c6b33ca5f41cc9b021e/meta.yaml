@@ -1,0 +1,9 @@
+digest: 6a71b9df
+name: dataset
+profile: '{"features_shape": [1977, 55], "features_size": 108735, "features_nbytes":
+  869880}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 55]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "marqsleal", "mlflow.source.name": "/home/marqsleal/Dev/Python/ml-tempalte-poc/venv/lib/python3.12/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
